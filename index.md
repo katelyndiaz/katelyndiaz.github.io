@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="UTF-8">
@@ -18,8 +18,8 @@
     <hr> 
     <hr>
   
-#      <iframe width="900" height="450" src="VISUALIZATION LINK GOES HERE" frameborder="0" style="border:0" allowfullscreen></iframe>
-#    </center>
+      <iframe width="900" height="450" src="https://www.linkedin.com/in/katelyndiaz/" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </center>
   </body>
 </html>
 
