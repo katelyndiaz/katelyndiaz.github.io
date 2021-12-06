@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
   <body>
   <center>
     <h1>Katelyn Diaz</h1>
-    <img src="https://www.linkedin.com/in/katelyndiaz/">
+    <img src="https://www.instagram.com/p/CP54fp4JV3A/">
     <h3>i code sometimes</h3>
     <hr>
     <h2>
@@ -18,7 +18,7 @@
     <hr> 
     <hr>
   
-      <iframe width="900" height="450" src="https://www.linkedin.com/in/katelyndiaz/" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe width="900" height="450" src="https://datastudio.google.com/reporting/f85898a4-08d2-4870-9e8a-83cfe7ee91af" frameborder="0" style="border:0" allowfullscreen></iframe>
     </center>
   </body>
 </html>
