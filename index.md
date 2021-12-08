@@ -8,13 +8,13 @@
   </head>
   <body>
   <center>
-    <h1>Katelyn Diaz</h1>
-    <img src="https://www.instagram.com/p/CP54fp4JV3A/">
-    <h3>i code sometimes</h3>
+    <h1>Katelyn Diaz, Ale Munoz, Sophie Jones, AJ Haller</h1>
+   <!--- <img src="https://www.instagram.com/p/CP54fp4JV3A/">  --->
+    <!---   <h3>i code sometimes</h3> --->
     <hr>
-    <h2>
-    <h2>About Me</h2>
-    <p>I'm a junior at Smith College double majoring in Biochemistry and Statistics and Data Science</p>
+    <h2> 
+    <h2>Hollywood's Favorite Tales: Money Talks</h2> 
+    <p>Interested in learning more about films? Scroll through the file below!</p>
     <hr> 
     <hr>
   
